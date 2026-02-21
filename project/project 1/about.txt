@@ -1,0 +1,24 @@
+Line Following Robot
+Overview
+Successfully designed and engineered an autonomous line-following robot to compete in the University Robotics Competition. This project focused on creating a high-speed, stable, and precise robot capable of navigating complex tracks with sharp turns and intersections using advanced sensor fusion and control logic.
+
+Technical Specifications & Features
+Precision Navigation: Integrated a high-density Infrared (IR) sensor array to detect path deviations with millisecond accuracy.
+
+Advanced Control Logic: Implemented a PID (Proportional-Integral-Derivative) Control Algorithm to ensure smooth movements, prevent overshooting, and maintain high speeds during straight paths.
+
+Power & Drive System: Optimized with high-RPM geared DC motors and a dedicated motor driver (e.g., L298N/TB6612FNG) for rapid response times.
+
+Robust Calibration: Developed a custom calibration routine to adapt to varying lighting conditions and surface reflections on the competition track.
+
+The Development Experience
+This project was an end-to-end engineering journey—from the initial CAD design of the chassis to the final firmware optimization. It challenged our team to solve real-world problems in:
+
+Hardware Integration: Managing power distribution and reducing electronic noise.
+
+Algorithm Optimization: Fine-tuning PID constants for the perfect balance between speed and stability.
+
+Real-time Processing: Ensuring the microcontroller processed sensor data fast enough for high-speed maneuvers.
+
+Key Outcomes
+The robot demonstrated exceptional path-following accuracy and reliability under competition pressure. This project solidified my expertise in robotics, control systems, and embedded C programming.
